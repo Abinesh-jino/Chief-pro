@@ -1,13 +1,11 @@
 import React, { useState } from 'react';
 import { Layout, Plus, Search, Settings } from 'lucide-react';
 import Sidebar from './components/Sidebar';
-import Board from './components/Board';
 import Modal from './components/Modal';
 import NewTaskForm from './components/NewTaskForm';
 import NewProjectForm from './components/NewProjectForm';
 import ProjectList from './components/ProjectList';
 import ProjectDetail from './components/ProjectDetail';
-import ProgressBar from './components/ProgressBar';
 import Chatbot from './components/Chatbot';
 import Reports from './components/Reports';
 import Team from './components/Team';
