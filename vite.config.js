@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base:"/Chief-Project-Management-Tool"
+  base:"/Chief-pro"
 });
