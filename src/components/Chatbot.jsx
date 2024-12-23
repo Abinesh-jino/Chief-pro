@@ -28,7 +28,7 @@ function Chatbot({ onCreateTask, teamMembers }) {
   const [fileName, setFileName] = useState(null);
   const [pendingFile, setPendingFile] = useState(null);
 
-  const API_KEY = 'AIzaSyABdNduTl0HyWac3NdgmTuDYAPyXwbB2zY';
+  const API_KEY = '';
   const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
   const scrollToBottom = () => {
