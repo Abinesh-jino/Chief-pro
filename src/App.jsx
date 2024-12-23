@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Layout, Plus, Search, Settings } from 'lucide-react';
+import { Plus, Search, Settings } from 'lucide-react';
 import Sidebar from './components/Sidebar';
 import Modal from './components/Modal';
 import NewTaskForm from './components/NewTaskForm';
