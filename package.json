@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abinesh-jino.github.io/Chief-Project-Management-Tool/",
   "scripts": {
     "dev": "vite",
     "start": "react-scripts build",
