@@ -12,7 +12,7 @@ import Chatbot from './components/Chatbot';
 import Reports from './components/Reports';
 import Team from './components/Team';
 import Dashboard from './components/Dashboard';
-import ChiefLogo from './assets/chief-logo.svg';
+import ChiefLogo from './assets/Chief-Logo.svg';
 import { TaskStatus } from './types';
 
 const teamMembers = [
